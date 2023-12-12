@@ -94,6 +94,12 @@ p {
     display: inline-block;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: left; /* Centers content horizontally */
+}
+
 /* Style all font awesome icons */
 .fa {
   padding: 20px;
