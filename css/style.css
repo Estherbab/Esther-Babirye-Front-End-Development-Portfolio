@@ -1,0 +1,93 @@
+* {
+  box-sizing: border-box;
+}
+header { background-color: chocolate;
+  color: brown;
+  font-size: 20px;
+}
+
+body {
+  margin: 0;
+  padding: 5px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  line-height: 1.5;
+  line-height-step: 1.5;
+  html {scroll-behavior: smooth;
+}
+main{
+  margin: 50px;
+  margin-right: 50px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 
+{
+  margin: 0;
+}
+
+p {
+  margin: 20px;
+}
+.menu{ 
+  display: flex;
+  justify-content: end;
+  color: chocolate;
+  font-size: 20px;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.menu li { 
+  display: inline-block;
+  list-style: none;
+  margin: 15px;
+}
+
+}
+.navbar ul{
+  background-color: chocolate;
+  padding: 0px;
+  margin: 0px;
+  overflow: hidden;
+}
+.navbar a{
+  color: black;
+  padding: 15px;
+  display: block;
+  text-align: right;
+}
+
+.hero-banner{
+  height: 100px;
+  background-color: goldenrod;
+  color: black;
+}
+.page-section{
+  display: grid;
+  flex-direction: row;
+}
+
+.grid-container{
+  display: grid;
+  grid-template-columns: 536.2px 502px;
+  p {
+    margin-bottom: 30px; /* between paragraphs */
+  }
+  display: inline;
+  border-left-style: solid;
+  margin-left: 10%;
+  padding-left: 80px;
+}
+.page-wrapper{
+  body {display:flex; 
+    flex-direction:column;
+    justify-content:center;
+    min-height: 100vh;
+  }
+  div {
+    display: inline-block;
+}
