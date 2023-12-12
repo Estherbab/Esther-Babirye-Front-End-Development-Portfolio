@@ -7,3 +7,6 @@ My name is Esther Babirye and I am currently an edx skills bootcamp student lear
 This portfolio is a look into work i have created using flexbox, CSS grid, media queries and CSS variables.
 
 I have built a live web application to showcase the skills and talents I have learnt and implemented so far.
+
+## Code Source
+The codes to my live application are located in my index.html file and my style.css file which is in my css folder
