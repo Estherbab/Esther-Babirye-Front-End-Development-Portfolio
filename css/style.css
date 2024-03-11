@@ -84,7 +84,7 @@ p {
   margin-left: 10%;
   padding-left: 80px;
 }
-.page-wrapper{
+.page-wrapper 
   body {display:flex; 
     flex-direction:column;
     justify-content:center;
@@ -135,4 +135,24 @@ p {
 .fa-pinterest {
   background: #cb2027;
   color: white;
+}
+
+
+#project-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+#project1{
+height: 300px;
+width: 70%;
+margin: auto;
+}
+
+.projects{
+  width: 40%;
+  height: 200px;
+  margin: 15px 10px;
+  background-color:blue
 }
