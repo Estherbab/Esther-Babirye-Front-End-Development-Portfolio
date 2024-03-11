@@ -1,4 +1,4 @@
-# Greatness-is-Calling
+# Esther Babirye Front End Development Portfolio
 A portfolio of Esther Babirye's skills &amp; talents in front-end web development 
 
 ## Introduction
